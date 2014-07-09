@@ -1,0 +1,3 @@
+include ':C::workspace:mapperdemo'
+include ':C::workspace:DWWebView'
+include ':C::workspace:pointmapper'
